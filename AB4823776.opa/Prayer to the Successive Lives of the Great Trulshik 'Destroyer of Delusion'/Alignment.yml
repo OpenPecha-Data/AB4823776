@@ -1,0 +1,16 @@
+segment_sources:
+  P64411B4E:
+    type: origin_type
+    relation: translation
+    language: en
+  P8C383831:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4aab9a48772e4203bcadaa086dffe035:
+    P64411B4E: 3a6785ea48cf4ad8a26055a6d6c12284
+    P8C383831: b9ec053a1ab349aaa9679e296f903266
+  8257f005510245eab01cedc453b3fd2e:
+    P64411B4E: a79232b159c041af8c89cbd9c508d93a
+    P8C383831: 5716d36028fc4022a83ddb7c09aa34e2
